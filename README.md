@@ -16,6 +16,8 @@ void main() {
     "name": "Owais",
     "address": "SGR"
   };
+
+  String? hobby = null; // nullabe variable
   
   final int data = 91; // run time constant
   const double pi = 3.14; // compile time constant

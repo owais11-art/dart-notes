@@ -17,6 +17,10 @@ void main() {
     "address": "SGR"
   };
 
+  String Function(int) myFun = (int m) {
+    return "$m";
+}
+
   String? hobby = null; // nullabe variable
   
   final int data = 91; // run time constant
